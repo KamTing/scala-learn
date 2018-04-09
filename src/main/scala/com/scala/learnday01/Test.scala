@@ -3,9 +3,9 @@ package com.scala.learnday01
 import scala.collection.mutable.{ArrayBuffer, ListBuffer, Map}
 
 /**
-  * @author kam
-  * @description
-  * @date 2018/4/4
+  * author kam
+  * description
+  * date 2018/4/4
   */
 object Test {
 

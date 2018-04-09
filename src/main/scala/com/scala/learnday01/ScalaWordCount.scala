@@ -1,9 +1,9 @@
 package com.scala.learnday01
 
 /**
-  * @author kam
-  * @description  使用scala进行wordcount编码
-  * @date 2018/4/6
+  * author kam
+  * description  使用scala进行wordcount编码
+  * date 2018/4/6
   */
 object ScalaWordCount {
 

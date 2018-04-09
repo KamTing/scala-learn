@@ -1,9 +1,9 @@
 package com.scala.learnday02
 
 /**
-  * @author kam
-  * @description
-  * @date 2018/4/7
+  * author kam
+  * description
+  * date 2018/4/7
   */
 
 //跟类名相同 伴生对象

@@ -1,9 +1,9 @@
 package com.scala.learnday02.traitandabstract
 
 /**
-  * @author kam
-  * @description
-  * @date 2018/4/7
+  * author kam
+  * description
+  * date 2018/4/7
   */
 class ChinesePeople extends WorldHuman with run{
   override def run(): Unit = {   //非抽象的方法重写的时候要带上override
