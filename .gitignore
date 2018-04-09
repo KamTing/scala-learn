@@ -1,0 +1,29 @@
+#git全局忽略列表
+#根据实际项目添加不需要加入版本库的过滤规则。
+#过滤规则：
+#/mtk/ 过滤整个文件夹
+#*.zip 过滤所有.zip文件
+#/mtk/do.c 过滤某个具体文件
+#gitignore还可以指定要将哪些文件添加到版本管理中：
+#!*.zip
+#!/mtk/one.txt
+/logs/
+
+#eclipse环境配置文件
+.settings
+.project
+
+**/*/*.class
+
+
+**/.classpath
+#idea环境配置文件
+**.iml
+.idea/
+#maven构建目录
+**/target/
+#gradle构建目录
+.gradle/
+**/build/*
+
+
